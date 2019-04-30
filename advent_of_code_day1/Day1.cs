@@ -6,8 +6,7 @@ using System.Linq;
 namespace AdventOfCode
 {
     public class Day1
-    {
-        
+    {        
         public int[] ConvertToIntArray(string[] data)
         {
 

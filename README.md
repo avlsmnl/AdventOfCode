@@ -16,4 +16,3 @@ utilities and run as administrator the Command Prompt Tool mentioned earlier in 
 5.- Once open, run the unit tests like this:
 	VSTest.Console.exe "ProjectLocation\AdventOfCodeDay2.UnitTests\bin\Debug\AdventOfCodeDay2.UnitTests.dll"
 	VSTest.Console.exe "ProjectLocation\AdventOfCode1.UnitTests\bin\Debug\AdventOfCodeDay1.UnitTests.dll"
-

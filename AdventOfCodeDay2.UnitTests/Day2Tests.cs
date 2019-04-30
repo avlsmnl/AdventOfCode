@@ -7,7 +7,6 @@ namespace AdventOfCodeDay2.UnitTests
     [TestClass]
     public class Day2Tests
     {
-
         [TestMethod]
         public void Checksum_IsEqualsTo12_ReturnsTrue()
         {

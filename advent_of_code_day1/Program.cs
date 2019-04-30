@@ -1,9 +1,8 @@
 ﻿using System;
 namespace AdventOfCode
 {
-    class Program
+    public class Program
     {
-
         static void Main(string[] args)
         {
             startup();
@@ -46,7 +45,5 @@ namespace AdventOfCode
             Console.WriteLine("Checksum result: {0}", day2.Checksum(words));
             Console.WriteLine("Characters in common: {0}", day2.CommonCharacters(words));
         }
-
-
     }
 }

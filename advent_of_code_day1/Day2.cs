@@ -9,7 +9,6 @@ namespace AdventOfCode
 {
     public class Day2
     {
-
         public int Checksum(string[] words)
         {
             Tuple<int, int> checkSumValues = computeChecksumValues(words);

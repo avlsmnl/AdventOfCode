@@ -7,6 +7,7 @@ namespace AdventOfCode.UnitTests
     [TestClass]
     public class Day1Tests
     {
+
         /*
         [TestMethod]
         public void FirstFrequencyTwice_IsEqualsToZero_ReturnsFalse()
